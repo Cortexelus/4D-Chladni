@@ -9,7 +9,7 @@ Simulation of Chladni patterns in 4D with Max/Msp/Jitter. This may be what stand
 
 What you are seeing are cymatic standing waves inside tesseracts. They produce beautiful four dimensional chladni patterns. The undulating animation is the camera cycling through (and rotating around) the cube-like cross-sections of the tesseract. 
 
-4D Chladni Max/MSP/Jitter patch created by CJ Carr, forked from [Graham Wakefield's](http://www.grahamwakefield.net) 3D simulation patch
+4D Chladni Max/MSP/Jitter patch created by CJ Carr, forked from [Graham Wakefield's](http://www.grahamwakefield.net) [3D Chladni simulation](http://www.mat.ucsb.edu/~wakefield/investigations.html#chladni) patch
 
 One of three winners of Music Tech Fest Cymatics Challenge. My prize: FREE airfare/hotel to Umeå, Sweden for MusicTechFest Scandi! 
 
